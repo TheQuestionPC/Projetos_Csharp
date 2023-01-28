@@ -1,0 +1,58 @@
+C:\Users\unisanta\Desktop\JogoDaForca\JogoDaForca\bin\Debug\JogoDaForca.exe.config
+C:\Users\unisanta\Desktop\JogoDaForca\JogoDaForca\bin\Debug\JogoDaForca.exe
+C:\Users\unisanta\Desktop\JogoDaForca\JogoDaForca\bin\Debug\JogoDaForca.pdb
+C:\Users\unisanta\Desktop\JogoDaForca\JogoDaForca\obj\Debug\JogoDaForca.csprojResolveAssemblyReference.cache
+C:\Users\unisanta\Desktop\JogoDaForca\JogoDaForca\obj\Debug\JogoDaForca.FRM_Inicio.resources
+C:\Users\unisanta\Desktop\JogoDaForca\JogoDaForca\obj\Debug\JogoDaForca.Properties.Resources.resources
+C:\Users\unisanta\Desktop\JogoDaForca\JogoDaForca\obj\Debug\JogoDaForca.csproj.GenerateResource.Cache
+C:\Users\unisanta\Desktop\JogoDaForca\JogoDaForca\obj\Debug\JogoDaForca.exe
+C:\Users\unisanta\Desktop\JogoDaForca\JogoDaForca\obj\Debug\JogoDaForca.pdb
+C:\Users\unisanta\Desktop\JogoDaForca\JogoDaForca\obj\Debug\JogoDaForca.Form2.resources
+C:\Users\cassi\OneDrive\Área de Trabalho\JogoDaForca\JogoDaForca\bin\Debug\JogoDaForca.exe.config
+C:\Users\cassi\OneDrive\Área de Trabalho\JogoDaForca\JogoDaForca\obj\Debug\JogoDaForca.exe
+C:\Users\cassi\OneDrive\Área de Trabalho\JogoDaForca\JogoDaForca\obj\Debug\JogoDaForca.pdb
+C:\Users\cassi\OneDrive\Área de Trabalho\JogoDaForca\JogoDaForca\bin\Debug\JogoDaForca.exe
+C:\Users\cassi\OneDrive\Área de Trabalho\JogoDaForca\JogoDaForca\bin\Debug\JogoDaForca.pdb
+C:\Users\cassi\OneDrive\Área de Trabalho\JogoDaForca\JogoDaForca\obj\Debug\JogoDaForca.csprojResolveAssemblyReference.cache
+C:\Users\cassi\OneDrive\Área de Trabalho\JogoDaForca\JogoDaForca\obj\Debug\JogoDaForca.FRM_Inicio.resources
+C:\Users\cassi\OneDrive\Área de Trabalho\JogoDaForca\JogoDaForca\obj\Debug\JogoDaForca.Form2.resources
+C:\Users\cassi\OneDrive\Área de Trabalho\JogoDaForca\JogoDaForca\obj\Debug\JogoDaForca.Properties.Resources.resources
+C:\Users\cassi\OneDrive\Área de Trabalho\JogoDaForca\JogoDaForca\obj\Debug\JogoDaForca.csproj.GenerateResource.Cache
+C:\Users\cassi\OneDrive\Área de Trabalho\JogoDaForca\JogoDaForca\obj\Debug\JogoDaForca.Form3.resources
+C:\Users\cassi\OneDrive\Área de Trabalho\JogoDaForca\JogoDaForca\obj\Debug\JogoDaForca.Form4.resources
+E:\Visual Studio C#\Projeto C# Forca\imagens forca\JogoDaForca\JogoDaForca\bin\Debug\JogoDaForca.exe.config
+E:\Visual Studio C#\Projeto C# Forca\imagens forca\JogoDaForca\JogoDaForca\obj\Debug\JogoDaForca.exe
+E:\Visual Studio C#\Projeto C# Forca\imagens forca\JogoDaForca\JogoDaForca\obj\Debug\JogoDaForca.pdb
+E:\Visual Studio C#\Projeto C# Forca\imagens forca\JogoDaForca\JogoDaForca\bin\Debug\JogoDaForca.exe
+E:\Visual Studio C#\Projeto C# Forca\imagens forca\JogoDaForca\JogoDaForca\bin\Debug\JogoDaForca.pdb
+E:\Visual Studio C#\Projeto C# Forca\imagens forca\JogoDaForca\JogoDaForca\obj\Debug\JogoDaForca.csprojResolveAssemblyReference.cache
+E:\Visual Studio C#\Projeto C# Forca\imagens forca\JogoDaForca\JogoDaForca\obj\Debug\JogoDaForca.FRM_Inicio.resources
+E:\Visual Studio C#\Projeto C# Forca\imagens forca\JogoDaForca\JogoDaForca\obj\Debug\JogoDaForca.Form2.resources
+E:\Visual Studio C#\Projeto C# Forca\imagens forca\JogoDaForca\JogoDaForca\obj\Debug\JogoDaForca.Form3.resources
+E:\Visual Studio C#\Projeto C# Forca\imagens forca\JogoDaForca\JogoDaForca\obj\Debug\JogoDaForca.Form4.resources
+E:\Visual Studio C#\Projeto C# Forca\imagens forca\JogoDaForca\JogoDaForca\obj\Debug\JogoDaForca.Properties.Resources.resources
+E:\Visual Studio C#\Projeto C# Forca\imagens forca\JogoDaForca\JogoDaForca\obj\Debug\JogoDaForca.csproj.GenerateResource.Cache
+D:\Visual Studio C#\Projeto C# Forca\imagens forca\JogoDaForca\JogoDaForca\bin\Debug\JogoDaForca.exe.config
+D:\Visual Studio C#\Projeto C# Forca\imagens forca\JogoDaForca\JogoDaForca\obj\Debug\JogoDaForca.exe
+D:\Visual Studio C#\Projeto C# Forca\imagens forca\JogoDaForca\JogoDaForca\obj\Debug\JogoDaForca.pdb
+C:\Users\cassi\OneDrive\Área de Trabalho\JogoDaForca\JogoDaForca\obj\Debug\JogoDaForca.FRM_Temas.resources
+C:\Users\Pichau\Desktop\JogoDaForca\JogoDaForca\obj\Debug\JogoDaForca.FRM_Inicio.resources
+C:\Users\Pichau\Desktop\JogoDaForca\JogoDaForca\obj\Debug\JogoDaForca.Form2.resources
+C:\Users\Pichau\Desktop\JogoDaForca\JogoDaForca\obj\Debug\JogoDaForca.Form3.resources
+C:\Users\Pichau\Desktop\JogoDaForca\JogoDaForca\obj\Debug\JogoDaForca.Form4.resources
+C:\Users\Pichau\Desktop\JogoDaForca\JogoDaForca\obj\Debug\JogoDaForca.FRM_Ciencias.resources
+C:\Users\Pichau\Desktop\JogoDaForca\JogoDaForca\obj\Debug\JogoDaForca.Properties.Resources.resources
+C:\Users\Pichau\Desktop\JogoDaForca\JogoDaForca\obj\Debug\JogoDaForca.csproj.GenerateResource.cache
+C:\Users\Pichau\Desktop\JogoDaForca\JogoDaForca\obj\Debug\JogoDaForca.exe
+C:\Users\Pichau\Desktop\JogoDaForca\JogoDaForca\obj\Debug\JogoDaForca.pdb
+C:\Users\Pichau\Desktop\JogoDaForca\JogoDaForca\bin\Debug\JogoDaForca.exe.config
+C:\Users\Pichau\Desktop\JogoDaForca\JogoDaForca\bin\Debug\JogoDaForca.exe
+C:\Users\Pichau\Desktop\JogoDaForca\JogoDaForca\bin\Debug\JogoDaForca.pdb
+C:\Users\Pichau\Desktop\JogoDaForca\JogoDaForca\obj\Debug\JogoDaForca.FRM_Geografia.resources
+C:\Users\Pichau\Desktop\JogoDaForca\JogoDaForca\obj\Debug\JogoDaForca.FRM_Historia.resources
+C:\Users\Pichau\Desktop\JogoDaForca\JogoDaForca\obj\Debug\JogoDaForca.FRM_Portugues.resources
+C:\Users\Pichau\Desktop\JogoDaForca\JogoDaForca\obj\Debug\JogoDaForca.csprojAssemblyReference.cache
+C:\Users\Pichau\Desktop\JogoDaForca\JogoDaForca\obj\Debug\JogoDaForca.csproj.CoreCompileInputs.cache
+E:\JogoDaForca\JogoDaForca\bin\Debug\JogoDaForca.exe.config
+E:\JogoDaForca\JogoDaForca\obj\Debug\JogoDaForca.exe
+E:\JogoDaForca\JogoDaForca\obj\Debug\JogoDaForca.pdb

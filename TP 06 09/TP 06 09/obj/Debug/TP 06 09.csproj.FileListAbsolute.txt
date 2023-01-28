@@ -1,0 +1,9 @@
+c:\users\unisanta\documents\visual studio 2017\Projects\TP 06 09\TP 06 09\bin\Debug\TP 06 09.exe.config
+c:\users\unisanta\documents\visual studio 2017\Projects\TP 06 09\TP 06 09\bin\Debug\TP 06 09.exe
+c:\users\unisanta\documents\visual studio 2017\Projects\TP 06 09\TP 06 09\bin\Debug\TP 06 09.pdb
+c:\users\unisanta\documents\visual studio 2017\Projects\TP 06 09\TP 06 09\obj\Debug\TP 06 09.csprojResolveAssemblyReference.cache
+c:\users\unisanta\documents\visual studio 2017\Projects\TP 06 09\TP 06 09\obj\Debug\TP_06_09.Properties.Resources.resources
+c:\users\unisanta\documents\visual studio 2017\Projects\TP 06 09\TP 06 09\obj\Debug\TP 06 09.csproj.GenerateResource.Cache
+c:\users\unisanta\documents\visual studio 2017\Projects\TP 06 09\TP 06 09\obj\Debug\TP 06 09.exe
+c:\users\unisanta\documents\visual studio 2017\Projects\TP 06 09\TP 06 09\obj\Debug\TP 06 09.pdb
+c:\users\unisanta\documents\visual studio 2017\Projects\TP 06 09\TP 06 09\obj\Debug\TP_06_09.FRM_Principal.resources

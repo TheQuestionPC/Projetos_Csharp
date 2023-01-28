@@ -1,0 +1,28 @@
+C:\Users\Pichau\source\repos\TP01\TP01\obj\Debug\TP01.csprojAssemblyReference.cache
+C:\Users\Pichau\source\repos\TP01\TP01\obj\Debug\TP01.Properties.Resources.resources
+C:\Users\Pichau\source\repos\TP01\TP01\obj\Debug\TP01.csproj.GenerateResource.cache
+C:\Users\Pichau\source\repos\TP01\TP01\obj\Debug\TP01.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\source\repos\TP01\TP01\bin\Debug\TP01.exe.config
+C:\Users\Pichau\source\repos\TP01\TP01\bin\Debug\TP01.exe
+C:\Users\Pichau\source\repos\TP01\TP01\bin\Debug\TP01.pdb
+C:\Users\Pichau\source\repos\TP01\TP01\obj\Debug\TP01.exe
+C:\Users\Pichau\source\repos\TP01\TP01\obj\Debug\TP01.pdb
+C:\Users\Pichau\source\repos\TP01\TP01\obj\Debug\TP01.FRM_ConversãoDeCircuitos.resources
+E:\170958 Lucas Komatsu\TP01\TP01\bin\Debug\TP01.exe.config
+E:\170958 Lucas Komatsu\TP01\TP01\obj\Debug\TP01.exe
+E:\170958 Lucas Komatsu\TP01\TP01\obj\Debug\TP01.pdb
+E:\170958 Lucas Komatsu\TP01\TP01\bin\Debug\TP01.exe
+E:\170958 Lucas Komatsu\TP01\TP01\bin\Debug\TP01.pdb
+E:\170958 Lucas Komatsu\TP01\TP01\obj\Debug\TP01.csprojResolveAssemblyReference.cache
+E:\170958 Lucas Komatsu\TP01\TP01\obj\Debug\TP01.FRM_ConversãoDeCircuitos.resources
+E:\170958 Lucas Komatsu\TP01\TP01\obj\Debug\TP01.Properties.Resources.resources
+E:\170958 Lucas Komatsu\TP01\TP01\obj\Debug\TP01.csproj.GenerateResource.Cache
+E:\TP01_170958\TP01\TP01\bin\Debug\TP01.exe.config
+E:\TP01_170958\TP01\TP01\obj\Debug\TP01.exe
+E:\TP01_170958\TP01\TP01\obj\Debug\TP01.pdb
+E:\TP01_170958\TP01\TP01\obj\Debug\TP01.csprojResolveAssemblyReference.cache
+E:\TP01_170958\TP01\TP01\obj\Debug\TP01.FRM_ConversãoDeCircuitos.resources
+E:\TP01_170958\TP01\TP01\obj\Debug\TP01.Properties.Resources.resources
+E:\TP01_170958\TP01\TP01\obj\Debug\TP01.csproj.GenerateResource.Cache
+E:\TP01_170958\TP01\TP01\bin\Debug\TP01.exe
+E:\TP01_170958\TP01\TP01\bin\Debug\TP01.pdb

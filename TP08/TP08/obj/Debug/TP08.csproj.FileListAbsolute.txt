@@ -1,0 +1,18 @@
+c:\users\unisanta\documents\visual studio 2013\Projects\TP08\TP08\bin\Debug\TP08.exe.config
+c:\users\unisanta\documents\visual studio 2013\Projects\TP08\TP08\obj\Debug\TP08.csprojResolveAssemblyReference.cache
+c:\users\unisanta\documents\visual studio 2013\Projects\TP08\TP08\obj\Debug\TP08.FRM_Principal.resources
+c:\users\unisanta\documents\visual studio 2013\Projects\TP08\TP08\obj\Debug\TP08.Properties.Resources.resources
+c:\users\unisanta\documents\visual studio 2013\Projects\TP08\TP08\obj\Debug\TP08.csproj.GenerateResource.Cache
+c:\users\unisanta\documents\visual studio 2013\Projects\TP08\TP08\bin\Debug\TP08.exe
+c:\users\unisanta\documents\visual studio 2013\Projects\TP08\TP08\bin\Debug\TP08.pdb
+c:\users\unisanta\documents\visual studio 2013\Projects\TP08\TP08\obj\Debug\TP08.exe
+c:\users\unisanta\documents\visual studio 2013\Projects\TP08\TP08\obj\Debug\TP08.pdb
+E:\TP08\TP08\bin\Debug\TP08.exe.config
+E:\TP08\TP08\obj\Debug\TP08.exe
+E:\TP08\TP08\obj\Debug\TP08.pdb
+E:\TP08\TP08\bin\Debug\TP08.exe
+E:\TP08\TP08\bin\Debug\TP08.pdb
+E:\TP08\TP08\obj\Debug\TP08.csprojResolveAssemblyReference.cache
+E:\TP08\TP08\obj\Debug\TP08.FRM_Principal.resources
+E:\TP08\TP08\obj\Debug\TP08.Properties.Resources.resources
+E:\TP08\TP08\obj\Debug\TP08.csproj.GenerateResource.Cache

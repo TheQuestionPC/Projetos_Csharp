@@ -1,0 +1,22 @@
+c:\users\unisanta\documents\visual studio 2013\Projects\TP05\TP05\bin\Debug\TP05.exe.config
+c:\users\unisanta\documents\visual studio 2013\Projects\TP05\TP05\obj\Debug\TP05.csprojResolveAssemblyReference.cache
+c:\users\unisanta\documents\visual studio 2013\Projects\TP05\TP05\obj\Debug\TP05.FRM_Principal.resources
+c:\users\unisanta\documents\visual studio 2013\Projects\TP05\TP05\obj\Debug\TP05.Properties.Resources.resources
+c:\users\unisanta\documents\visual studio 2013\Projects\TP05\TP05\obj\Debug\TP05.csproj.GenerateResource.Cache
+c:\users\unisanta\documents\visual studio 2013\Projects\TP05\TP05\bin\Debug\TP05.exe
+c:\users\unisanta\documents\visual studio 2013\Projects\TP05\TP05\bin\Debug\TP05.pdb
+c:\users\unisanta\documents\visual studio 2013\Projects\TP05\TP05\obj\Debug\TP05.exe
+c:\users\unisanta\documents\visual studio 2013\Projects\TP05\TP05\obj\Debug\TP05.pdb
+E:\TP05\TP05\bin\Debug\TP05.exe.config
+E:\TP05\TP05\bin\Debug\TP05.exe
+E:\TP05\TP05\bin\Debug\TP05.pdb
+E:\TP05\TP05\obj\Debug\TP05.csprojAssemblyReference.cache
+E:\TP05\TP05\obj\Debug\TP05.FRM_Principal.resources
+E:\TP05\TP05\obj\Debug\TP05.Properties.Resources.resources
+E:\TP05\TP05\obj\Debug\TP05.csproj.GenerateResource.cache
+E:\TP05\TP05\obj\Debug\TP05.csproj.CoreCompileInputs.cache
+E:\TP05\TP05\obj\Debug\TP05.exe
+E:\TP05\TP05\obj\Debug\TP05.pdb
+F:\170958\TP05_170958\TP05\bin\Debug\TP05.exe.config
+F:\170958\TP05_170958\TP05\obj\Debug\TP05.exe
+F:\170958\TP05_170958\TP05\obj\Debug\TP05.pdb
